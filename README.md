@@ -30,7 +30,7 @@ This project focuses on developing and deploying a booking system prototype usin
 - Include features such as desk booking, QR code scanning for desk check-ins, booking history, and a user profile page.
 - Allow users to book desks using their mobile phones, providing a fast and convenient solution.
 
-### KKR Rental Hiking Equipment System
+## KKR Rental Hiking Equipment System
 Developed a comprehensive rental system for the Kembara Club at Universiti Teknologi PETRONAS (UTP) using the Power Platform. The system streamlines the process of renting hiking equipment for UTP students and staff.
 
 **Key Components**:
@@ -39,7 +39,7 @@ Developed a comprehensive rental system for the Kembara Club at Universiti Tekno
 - **Power Automate Workflows**: Automated processes for booking approvals, delivery, and return bookings to enhance efficiency.
 - **Power BI Reports**: Interactive reports analyzing rental business performance, providing insights into equipment usage, rental trends, and revenue.
 
-### LeaveSmart Website Project
+## LeaveSmart Website Project
 Collaborated with Double Bubble Enterprise to develop LeaveSmart, a web-based application for streamlining leave management processes in companies of all sizes. Built using Angular, PHP, and MySQL, LeaveSmart offers a user-friendly interface for employees and administrators.
 
 **Key Features**:
