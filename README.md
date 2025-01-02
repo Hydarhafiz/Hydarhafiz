@@ -9,6 +9,27 @@ I am a passionate and skilled web designer and developer with experience in vari
 
 ## Past Projects
 
+## Organizational Worksapce System (OWS)
+
+### Introduction
+This project focuses on developing and deploying a booking system prototype using the MEAN stack (MongoDB, Express.js, Angular, Node.js) and the Ionic framework. The primary objective is to provide training and onboarding for new staff and interns at Petronas Digital Sdn Bhd, exposing them to the MEAN stack and Ionic framework.
+
+### Technologies Used
+- MEAN stack
+- Ionic framework
+
+### Features
+
+#### Admin Website using Angular
+- Develop a robust and user-friendly administration website using Angular.
+- Enable admin users to manage desk bookings across multiple office floors.
+- Implement CRUD operations, data fetching, display functionalities, and an intuitive user interface.
+
+#### Staff App using Ionic
+- Develop a mobile application for desk booking, ensuring convenience and accessibility for users.
+- Include features such as desk booking, QR code scanning for desk check-ins, booking history, and a user profile page.
+- Allow users to book desks using their mobile phones, providing a fast and convenient solution.
+
 ### KKR Rental Hiking Equipment System
 Developed a comprehensive rental system for the Kembara Club at Universiti Teknologi PETRONAS (UTP) using the Power Platform. The system streamlines the process of renting hiking equipment for UTP students and staff.
 
