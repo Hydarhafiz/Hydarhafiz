@@ -9,7 +9,7 @@ I am a passionate and skilled web designer and developer with experience in vari
 
 ## Past Projects
 
-### **Prescriptive Analytics for Saline Aquifer Storage Detection (Jan 2025 - Aug 2025)** **(Private)**
+### **Final Year Project: Prescriptive Analytics for Saline Aquifer Storage Detection (Jan 2025 - Aug 2025)** **(Private)**
 
 #### **Introduction**
 This project developed an AI-driven prescriptive analytics framework to identify optimal carbon capture and storage (CCS) locations in deep saline aquifers. The solution integrates modern AI/ML technologies to transform complex geological data into actionable insights for both technical and non-technical stakeholders, contributing to global climate change mitigation efforts.
@@ -30,7 +30,7 @@ This project developed an AI-driven prescriptive analytics framework to identify
 
 ***
 
-### Vibe Coder: A Full-Stack AI Coding Assistant Prototype
+### Vibe Coder AI Prototype
 
 #### Introduction
 Vibe Coder is a full-stack, AI-powered coding assistant prototype designed to streamline the software development workflow. Developed in just two weeks, this project showcases the integration of local large language models (LLMs) into a practical application. Users can interact with the system via a web-based chat interface to generate code and receive automated, expert-level analysis. The architecture is built for privacy and performance, with the AI models running locally on a dedicated environment with GPU acceleration.
@@ -65,7 +65,7 @@ Vibe Coder is a full-stack, AI-powered coding assistant prototype designed to st
 
 ***
 
-## **Organizational Workspace System (OWS) (Jan 2024 - Aug 2024)** **(Private)**
+## **Internship Project: Organizational Workspace System (OWS) (Jan 2024 - Aug 2024)** **(Private)**
 
 ### Introduction
 This project focuses on developing and deploying a booking system prototype using the MEAN stack (MongoDB, Express.js, Angular, Node.js) and the Ionic framework. The primary objective is to provide training and onboarding for new staff and interns at Petronas Digital Sdn Bhd, exposing them to the MEAN stack and Ionic framework.
