@@ -1,11 +1,12 @@
-## About Me
-I am a passionate and skilled web designer and developer with experience in various technologies and platforms. My expertise includes:
+### About Me
 
-- **Web Design**: Creating intuitive and visually appealing designs using Figma.
-- **Web Development**: Building robust and scalable applications using the MEAN stack (MongoDB, Express.js, Angular, Node.js) and PHP.
-- **Version Control**: Proficient in using GitHub, Git, and Azure DevOps for efficient version control and collaboration.
-- **Data Analysis**: Analyzing and visualizing data using Python and Microsoft Power BI.
-- **Database Management**: Experienced in working with MySQL and MongoDB databases.
+A passionate and driven software developer with a strong focus on full-stack development, AI/ML integration, and robust system architecture. My experience ranges from building and deploying enterprise-grade web applications to pioneering AI-driven projects that solve complex problems.
+
+I specialize in **React**, **FastAPI**, and database technologies like **PostgreSQL** and **Neo4j**, with a proven ability to containerize applications using **Docker** for seamless deployment. My projects, including a final year project on prescriptive analytics for carbon capture and a two-week prototype for an AI coding assistant, demonstrate a hands-on approach to using modern technologies to create functional and scalable solutions.
+
+My skill set also includes leveraging machine learning for data analysis and building multi-model AI workflows. I have practical experience in integrating LLMs like **Qwen** and **Llama** and using advanced techniques like **K-means clustering** and **SHAP** values to extract actionable insights. I am a quick learner and a dedicated collaborator, always seeking to build impactful and innovative software.
+
+***
 
 ## Past Projects
 
@@ -30,7 +31,7 @@ This project developed an AI-driven prescriptive analytics framework to identify
 
 ***
 
-### Vibe Coder AI Prototype
+### **Vibe Coder AI Prototype (Aug 2025)** **(Private)**
 
 #### Introduction
 Vibe Coder is a full-stack, AI-powered coding assistant prototype designed to streamline the software development workflow. Developed in just two weeks, this project showcases the integration of local large language models (LLMs) into a practical application. Users can interact with the system via a web-based chat interface to generate code and receive automated, expert-level analysis. The architecture is built for privacy and performance, with the AI models running locally on a dedicated environment with GPU acceleration.
@@ -42,7 +43,6 @@ Vibe Coder is a full-stack, AI-powered coding assistant prototype designed to st
     * **React** and **Vite** for a modern, component-based user interface.
     * **TypeScript** for enhanced code quality and maintainability.
     * **Tailwind CSS** for rapid and responsive styling.
-    * **Ace Editor** to provide a feature-rich, integrated code editor.
 
 * **Backend**:
     * **FastAPI** for a high-performance, Python-based API.
