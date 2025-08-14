@@ -28,7 +28,7 @@ This project developed an AI-driven prescriptive analytics framework to identify
 - **Containerized Deployment:** The entire application was containerized using Docker and Docker Compose, ensuring the system's portability, scalability, and ease of deployment.
 - **User Validation:** The system's effectiveness was confirmed through User Acceptance Testing (UAT) with domain experts from Petronas Research Sdn Bhd (PRSB).
 
-## Organizational Worksapce System (OWS)
+## Organizational Workspace System (OWS)
 
 ### Introduction
 This project focuses on developing and deploying a booking system prototype using the MEAN stack (MongoDB, Express.js, Angular, Node.js) and the Ionic framework. The primary objective is to provide training and onboarding for new staff and interns at Petronas Digital Sdn Bhd, exposing them to the MEAN stack and Ionic framework.
