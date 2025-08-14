@@ -1,94 +1,48 @@
 ### About Me
-
-A passionate and driven software developer with a strong focus on **AI/ML and full-stack development**. I specialize in building end-to-end applications that leverage the power of artificial intelligence to solve real-world problems. My experience includes designing and implementing custom AI workflows, from integrating specialized **large language models (LLMs)** for code generation and analysis to developing **prescriptive analytics frameworks** using machine learning.
+A passionate and driven software developer with a strong focus on **AI/ML and full-stack development**. I specialize in building end-to-end applications that leverage the power of artificial intelligence to solve complex problems. My experience includes designing and implementing custom AI workflows, from integrating specialized **large language models (LLMs)** for code generation and analysis to developing **prescriptive analytics frameworks** using machine learning.
 
 I am highly proficient with modern tech stacks, including **Python/FastAPI** for robust backends, **React/TypeScript** for dynamic frontends, and **PostgreSQL/Neo4j** for structured and graph databases. My work on projects like the "Vibe Coder AI Prototype" and the "Prescriptive Analytics for Saline Aquifer Storage Detection" demonstrates my ability to build scalable, containerized applications that deliver tangible value. I am adept at using tools like **Docker** and frameworks such as **Ollama** to create efficient, private, and high-performance systems. I am dedicated to continuous learning and applying cutting-edge technologies to create innovative solutions.
 
 ***
 
-## Past Projects
+### 💻 Past Projects
 
-### **Final Year Project: Prescriptive Analytics for Saline Aquifer Storage Detection (Jan 2025 - Aug 2025)** **(Private)**
+#### **Final Year Project: Prescriptive Analytics for Saline Aquifer Storage Detection (Private repo)**
+*Jan 2025 - Aug 2025*
+* **Introduction**: Developed a prescriptive analytics framework to identify optimal carbon capture and storage (CCS) locations in deep saline aquifers. The project integrated AI/ML to transform complex geological data into actionable insights, contributing to global climate change mitigation efforts.
+* **Technologies**: **React** + **Vite**, **TypeScript**, **Python**, **FastAPI**, **Neo4j** (Graph Database), **PostgreSQL**, **qwen2.5-coder:7b**, **llama3:8b**, **K-means Clustering**, **SHAP**, **Docker**, **Docker Compose**.
+* **Key Features**:
+    * **Full-Stack AI/ML Application**: An end-to-end system with a chatbot interface and a robust Python backend.
+    * **Integrated LLM Framework**: Used LLMs to translate natural language queries into executable database queries and to generate analytical responses.
+    * **Knowledge Graph & ML Engine**: Preprocessed over 100,000 geological records into a Neo4j knowledge graph and implemented an ML-driven recommendation engine.
+    * **Containerized Deployment**: Deployed the entire application using Docker for portability and scalability.
 
-#### **Introduction**
-This project developed an AI-driven prescriptive analytics framework to identify optimal carbon capture and storage (CCS) locations in deep saline aquifers. The solution integrates modern AI/ML technologies to transform complex geological data into actionable insights for both technical and non-technical stakeholders, contributing to global climate change mitigation efforts.
+---
 
-#### **Technologies Used**
-- **Frontend:** React + Vite, TypeScript
-- **Backend:** Python, FastAPI
-- **Databases:** Neo4j (Graph Database), PostgreSQL
-- **AI/ML:** qwen2.5-coder:7b, llama3:8b, K-means Clustering, SHAP (SHapley Additive exPlanations)
-- **Conatinerization:** Docker, Docker Compose
+#### **Vibe Coder AI Prototype (Public repo)**
+*Aug 2025*
+* **Introduction**: A two-week prototype of a full-stack, AI-powered coding assistant. The project demonstrates the integration of local LLMs for instant code generation and analysis via a web-based chat interface.
+* **Technologies**: **React**, **Vite**, **TypeScript**, **Tailwind CSS**, **FastAPI**, **SQLAlchemy**, **PostgreSQL**, **Ollama**, **Qwen**, **Llama**, **WSL2**, **Docker**.
+* **Key Features**:
+    * **Multi-Model AI Workflow**: Leverages two specialized LLMs (**Qwen** for generation, **Llama** for analysis) in a single, seamless process.
+    * **Local AI Infrastructure**: All AI computations are performed locally using **Ollama** on a **WSL2** environment with GPU acceleration, ensuring data privacy.
 
-#### **Key Features**
-- **Full-Stack AI/ML Application:** Designed and built an end-to-end system with a web-based chatbot interface and a robust Python backend.
-- **Integrated LLM Framework:** Utilized qwen2.5-coder:7b to translate natural language queries into executable Neo4j database queries and llama3:8b to generate insightful, analytical responses.
-- **Knowledge Graph and ML Engine:** Preprocessed over 100,000 geological records into a Neo4j knowledge graph. An ML-driven recommendation engine using K-means clustering was implemented, with SHAP values used to optimize parameters and enhance recommendations.
-- **Containerized Deployment:** The entire application was containerized using Docker and Docker Compose, ensuring the system's portability, scalability, and ease of deployment.
-- **User Validation:** The system's effectiveness was confirmed through User Acceptance Testing (UAT) with domain experts from Petronas Research Sdn Bhd (PRSB).
+---
 
-***
+#### **Internship Project: Organizational Workspace System (OWS) (Private repo)**
+*Jan 2024 - Aug 2024*
+* **Introduction**: Developed a booking system prototype using the **MEAN stack** and **Ionic framework** for new staff and intern training.
+* **Technologies**: **MEAN Stack** (**MongoDB**, **Express.js**, **Angular**, **Node.js**), **Ionic Framework**.
+* **Key Features**:
+    * **Admin Website**: A robust Angular-based site for managing desk bookings and implementing CRUD operations.
+    * **Staff Mobile App**: An **Ionic** mobile app enabling users to book desks, check in via QR code, and view their booking history.
 
-### **Vibe Coder AI Prototype (Aug 2025)** **(Private)**
+---
 
-#### Introduction
-Vibe Coder is a full-stack, AI-powered coding assistant prototype designed to streamline the software development workflow. Developed in just two weeks, this project showcases the integration of local large language models (LLMs) into a practical application. Users can interact with the system via a web-based chat interface to generate code and receive automated, expert-level analysis. The architecture is built for privacy and performance, with the AI models running locally on a dedicated environment with GPU acceleration.
-
-
-#### Technologies Used
-
-* **Frontend**:
-    * **React** and **Vite** for a modern, component-based user interface.
-    * **TypeScript** for enhanced code quality and maintainability.
-    * **Tailwind CSS** for rapid and responsive styling.
-
-* **Backend**:
-    * **FastAPI** for a high-performance, Python-based API.
-    * **SQLAlchemy** as the Object-Relational Mapper (ORM) for database interactions.
-    * **PostgreSQL** as the relational database for storing project data and chat history.
-
-* **AI & Infrastructure**:
-    * **Ollama**: A framework for running large language models locally.
-    * **Qwen**: The LLM used for code generation and modification tasks.
-    * **Llama**: The LLM used for providing detailed code analysis and suggestions.
-    * **WSL2 (Windows Subsystem for Linux)**: The local environment for running the AI infrastructure with access to the host machine's GPU.
-    * **Docker**: Used for containerization to simplify the setup and deployment of services.
-
-### Key Features
-
-* **Multi-Model AI Workflow**: The system orchestrates a sophisticated, two-step AI process. It uses a code-generation-optimized model (Qwen) to produce the code and then passes the result to a specialized analysis model (Llama) to provide constructive feedback, all from a single user prompt.
-* **Integrated Code Generation & Analysis**: A seamless user experience where a single chat request not only generates code but also provides a comprehensive review of that code, simulating a virtual pair programming session.
-* **Local AI Infrastructure**: All AI computations are performed on a local machine, ensuring **complete data privacy** as no sensitive code or data is sent to external cloud services. The use of **WSL2** with GPU passthrough enables high-speed processing.
-* **Scalable Architecture**: The FastAPI backend is designed as a central API gateway, providing a clear separation of concerns. The **PostgreSQL** database schema is structured to support project and message data, making it easy to scale the application.
-
-***
-
-## **Internship Project: Organizational Workspace System (OWS) (Jan 2024 - Aug 2024)** **(Private)**
-
-### Introduction
-This project focuses on developing and deploying a booking system prototype using the MEAN stack (MongoDB, Express.js, Angular, Node.js) and the Ionic framework. The primary objective is to provide training and onboarding for new staff and interns at Petronas Digital Sdn Bhd, exposing them to the MEAN stack and Ionic framework.
-
-### Technologies Used
-- MEAN stack
-- Ionic framework
-
-### Features
-
-#### Admin Website using Angular
-- Develop a robust and user-friendly administration website using Angular.
-- Enable admin users to manage desk bookings across multiple office floors.
-- Implement CRUD operations, data fetching, display functionalities, and an intuitive user interface.
-
-#### Staff App using Ionic
-- Develop a mobile application for desk booking, ensuring convenience and accessibility for users.
-- Include features such as desk booking, QR code scanning for desk check-ins, booking history, and a user profile page.
-- Allow users to book desks using their mobile phones, providing a fast and convenient solution.
-
-***
-
-## LeaveSmart Website Project (June 2023 - Feb 2024) **(Public)**
-Collaborated with Double Bubble Enterprise to develop LeaveSmart, a web-based application for streamlining leave management processes in companies of all sizes. Built using Angular, PHP, and MySQL, LeaveSmart offers a user-friendly interface for employees and administrators.
-
-**Key Features**:
-- **LeaveSmart Client**: Enables employees to manage their leave balances, view current leave requests, and submit new leave applications.
-- **LeaveSmart Admin**: Provides administrators with tools to manage company leave policies, create employee accounts, approve or reject leave requests, and generate leave reports.
+#### **LeaveSmart Website Project (Public repo)**
+*June 2023 - Feb 2024*
+* **Introduction**: Collaborated on a web-based application to streamline leave management for businesses.
+* **Technologies**: **Angular**, **PHP**, **MySQL**.
+* **Key Features**:
+    * **LeaveSmart Client**: A user-friendly interface for employees to manage leave balances and submit applications.
+    * **LeaveSmart Admin**: An administrative portal for managing company leave policies, accounts, and reports.
