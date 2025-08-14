@@ -9,7 +9,7 @@ I am a passionate and skilled web designer and developer with experience in vari
 
 ## Past Projects
 
-### **Prescriptive Analytics for Saline Aquifer Storage Detection**
+### **Prescriptive Analytics for Saline Aquifer Storage Detection (Jan 2025 - Aug 2025)** **(Private)**
 
 #### **Introduction**
 This project developed an AI-driven prescriptive analytics framework to identify optimal carbon capture and storage (CCS) locations in deep saline aquifers. The solution integrates modern AI/ML technologies to transform complex geological data into actionable insights for both technical and non-technical stakeholders, contributing to global climate change mitigation efforts.
@@ -28,7 +28,44 @@ This project developed an AI-driven prescriptive analytics framework to identify
 - **Containerized Deployment:** The entire application was containerized using Docker and Docker Compose, ensuring the system's portability, scalability, and ease of deployment.
 - **User Validation:** The system's effectiveness was confirmed through User Acceptance Testing (UAT) with domain experts from Petronas Research Sdn Bhd (PRSB).
 
-## Organizational Workspace System (OWS)
+***
+
+### Vibe Coder: A Full-Stack AI Coding Assistant Prototype
+
+#### Introduction
+Vibe Coder is a full-stack, AI-powered coding assistant prototype designed to streamline the software development workflow. Developed in just two weeks, this project showcases the integration of local large language models (LLMs) into a practical application. Users can interact with the system via a web-based chat interface to generate code and receive automated, expert-level analysis. The architecture is built for privacy and performance, with the AI models running locally on a dedicated environment with GPU acceleration.
+
+
+#### Technologies Used
+
+* **Frontend**:
+    * **React** and **Vite** for a modern, component-based user interface.
+    * **TypeScript** for enhanced code quality and maintainability.
+    * **Tailwind CSS** for rapid and responsive styling.
+    * **Ace Editor** to provide a feature-rich, integrated code editor.
+
+* **Backend**:
+    * **FastAPI** for a high-performance, Python-based API.
+    * **SQLAlchemy** as the Object-Relational Mapper (ORM) for database interactions.
+    * **PostgreSQL** as the relational database for storing project data and chat history.
+
+* **AI & Infrastructure**:
+    * **Ollama**: A framework for running large language models locally.
+    * **Qwen**: The LLM used for code generation and modification tasks.
+    * **Llama**: The LLM used for providing detailed code analysis and suggestions.
+    * **WSL2 (Windows Subsystem for Linux)**: The local environment for running the AI infrastructure with access to the host machine's GPU.
+    * **Docker**: Used for containerization to simplify the setup and deployment of services.
+
+### Key Features
+
+* **Multi-Model AI Workflow**: The system orchestrates a sophisticated, two-step AI process. It uses a code-generation-optimized model (Qwen) to produce the code and then passes the result to a specialized analysis model (Llama) to provide constructive feedback, all from a single user prompt.
+* **Integrated Code Generation & Analysis**: A seamless user experience where a single chat request not only generates code but also provides a comprehensive review of that code, simulating a virtual pair programming session.
+* **Local AI Infrastructure**: All AI computations are performed on a local machine, ensuring **complete data privacy** as no sensitive code or data is sent to external cloud services. The use of **WSL2** with GPU passthrough enables high-speed processing.
+* **Scalable Architecture**: The FastAPI backend is designed as a central API gateway, providing a clear separation of concerns. The **PostgreSQL** database schema is structured to support project and message data, making it easy to scale the application.
+
+***
+
+## **Organizational Workspace System (OWS) (Jan 2024 - Aug 2024)** **(Private)**
 
 ### Introduction
 This project focuses on developing and deploying a booking system prototype using the MEAN stack (MongoDB, Express.js, Angular, Node.js) and the Ionic framework. The primary objective is to provide training and onboarding for new staff and interns at Petronas Digital Sdn Bhd, exposing them to the MEAN stack and Ionic framework.
@@ -49,7 +86,9 @@ This project focuses on developing and deploying a booking system prototype usin
 - Include features such as desk booking, QR code scanning for desk check-ins, booking history, and a user profile page.
 - Allow users to book desks using their mobile phones, providing a fast and convenient solution.
 
-## LeaveSmart Website Project
+***
+
+## LeaveSmart Website Project (June 2023 - Feb 2024) **(Public)**
 Collaborated with Double Bubble Enterprise to develop LeaveSmart, a web-based application for streamlining leave management processes in companies of all sizes. Built using Angular, PHP, and MySQL, LeaveSmart offers a user-friendly interface for employees and administrators.
 
 **Key Features**:
