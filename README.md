@@ -9,6 +9,25 @@ I am a passionate and skilled web designer and developer with experience in vari
 
 ## Past Projects
 
+### **Prescriptive Analytics for Saline Aquifer Storage Detection**
+
+#### **Introduction**
+This project developed an AI-driven prescriptive analytics framework to identify optimal carbon capture and storage (CCS) locations in deep saline aquifers. The solution integrates modern AI/ML technologies to transform complex geological data into actionable insights for both technical and non-technical stakeholders, contributing to global climate change mitigation efforts.
+
+#### **Technologies Used**
+- **Frontend:** React + Vite, TypeScript
+- **Backend:** Python, FastAPI
+- **Databases:** Neo4j (Graph Database), PostgreSQL
+- **AI/ML:** qwen2.5-coder:7b, llama3:8b, K-means Clustering, SHAP (SHapley Additive exPlanations)
+- **Conatinerization:** Docker, Docker Compose
+
+#### **Key Features**
+- **Full-Stack AI/ML Application:** Designed and built an end-to-end system with a web-based chatbot interface and a robust Python backend.
+- **Integrated LLM Framework:** Utilized qwen2.5-coder:7b to translate natural language queries into executable Neo4j database queries and llama3:8b to generate insightful, analytical responses.
+- **Knowledge Graph and ML Engine:** Preprocessed over 100,000 geological records into a Neo4j knowledge graph. An ML-driven recommendation engine using K-means clustering was implemented, with SHAP values used to optimize parameters and enhance recommendations.
+- **Containerized Deployment:** The entire application was containerized using Docker and Docker Compose, ensuring the system's portability, scalability, and ease of deployment.
+- **User Validation:** The system's effectiveness was confirmed through User Acceptance Testing (UAT) with domain experts from Petronas Research Sdn Bhd (PRSB).
+
 ## Organizational Worksapce System (OWS)
 
 ### Introduction
@@ -29,15 +48,6 @@ This project focuses on developing and deploying a booking system prototype usin
 - Develop a mobile application for desk booking, ensuring convenience and accessibility for users.
 - Include features such as desk booking, QR code scanning for desk check-ins, booking history, and a user profile page.
 - Allow users to book desks using their mobile phones, providing a fast and convenient solution.
-
-## KKR Rental Hiking Equipment System
-Developed a comprehensive rental system for the Kembara Club at Universiti Teknologi PETRONAS (UTP) using the Power Platform. The system streamlines the process of renting hiking equipment for UTP students and staff.
-
-**Key Components**:
-- **KKR Client App**: A Power App for students and staff to browse and book available hiking equipment, such as tents and camping lamps.
-- **KKR Admin App**: A Power App for KKR members to manage user bookings, equipment inventory, member accounts, and delivery/return processes.
-- **Power Automate Workflows**: Automated processes for booking approvals, delivery, and return bookings to enhance efficiency.
-- **Power BI Reports**: Interactive reports analyzing rental business performance, providing insights into equipment usage, rental trends, and revenue.
 
 ## LeaveSmart Website Project
 Collaborated with Double Bubble Enterprise to develop LeaveSmart, a web-based application for streamlining leave management processes in companies of all sizes. Built using Angular, PHP, and MySQL, LeaveSmart offers a user-friendly interface for employees and administrators.
