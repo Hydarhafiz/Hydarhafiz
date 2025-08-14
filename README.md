@@ -1,10 +1,8 @@
 ### About Me
 
-A passionate and driven software developer with a strong focus on full-stack development, AI/ML integration, and robust system architecture. My experience ranges from building and deploying enterprise-grade web applications to pioneering AI-driven projects that solve complex problems.
+A passionate and driven software developer with a strong focus on **AI/ML and full-stack development**. I specialize in building end-to-end applications that leverage the power of artificial intelligence to solve real-world problems. My experience includes designing and implementing custom AI workflows, from integrating specialized **large language models (LLMs)** for code generation and analysis to developing **prescriptive analytics frameworks** using machine learning.
 
-I specialize in **React**, **FastAPI**, and database technologies like **PostgreSQL** and **Neo4j**, with a proven ability to containerize applications using **Docker** for seamless deployment. My projects, including a final year project on prescriptive analytics for carbon capture and a two-week prototype for an AI coding assistant, demonstrate a hands-on approach to using modern technologies to create functional and scalable solutions.
-
-My skill set also includes leveraging machine learning for data analysis and building multi-model AI workflows. I have practical experience in integrating LLMs like **Qwen** and **Llama** and using advanced techniques like **K-means clustering** and **SHAP** values to extract actionable insights. I am a quick learner and a dedicated collaborator, always seeking to build impactful and innovative software.
+I am highly proficient with modern tech stacks, including **Python/FastAPI** for robust backends, **React/TypeScript** for dynamic frontends, and **PostgreSQL/Neo4j** for structured and graph databases. My work on projects like the "Vibe Coder AI Prototype" and the "Prescriptive Analytics for Saline Aquifer Storage Detection" demonstrates my ability to build scalable, containerized applications that deliver tangible value. I am adept at using tools like **Docker** and frameworks such as **Ollama** to create efficient, private, and high-performance systems. I am dedicated to continuous learning and applying cutting-edge technologies to create innovative solutions.
 
 ***
 
