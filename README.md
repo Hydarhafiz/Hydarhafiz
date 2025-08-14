@@ -55,5 +55,3 @@ Collaborated with Double Bubble Enterprise to develop LeaveSmart, a web-based ap
 **Key Features**:
 - **LeaveSmart Client**: Enables employees to manage their leave balances, view current leave requests, and submit new leave applications.
 - **LeaveSmart Admin**: Provides administrators with tools to manage company leave policies, create employee accounts, approve or reject leave requests, and generate leave reports.
-
-LeaveSmart is offered as a subscription-based service, providing companies with a cost-effective solution for managing employee leave.
