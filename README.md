@@ -7,6 +7,22 @@ I am highly proficient with modern tech stacks, including **Python/FastAPI** for
 
 ### 💻 Past Projects
 
+#### **Capstone MVP Project: Generative AI Job Application Assistant (JAA) (Public repo)**
+*Sept 2025 - Present*
+* **Introduction**: This capstone project is designed to automate the process of tailoring job application materials, addressing the time-consuming and inefficient nature of manual job searching, particularly for new graduates.
+* **Technologies**: **React** + **Vite**, **TypeScript**, **Python**, **FastAPI**, **PostgreSQL**, **Docker**, **Docker Compose**, **Gemini 2.5 Flash API**, **Selenium**, **Playwright**.
+* **Key Features**:
+    * **User Profile Setup**: A web form to capture and store a user's professional background in a PostgreSQL database via a FastAPI backend.
+    * **Job Data Processing**: A backend script scrapes key information (job title, company, description, requirements) from a single job posting URL.
+    * **AI Integration**: Utilizes a selected LLM API (Gemini 2.5 Flash) with prompt engineering to synthesize user and job data to generate a personalized resume and cover letter.
+    * **Output Display**: The generated documents are displayed on a web interface in a simple, copyable format.
+
+* **Next Steps**:
+    * **Phase 2: Multi-Agent Automation System**: The project will evolve into a seamlessly orchestrated pipeline of specialized AI agents using a framework like LangGraph. This phase will enable automation from job discovery to submission using various models, including local LLMs via Ollama and cloud APIs.
+    * **Phase 3: The AI Co-Pilot**: A conversational interface will be added, transforming the system into an interactive, learning AI assistant. This phase will feature a chatbot agent, built with LangChain's ReAct paradigm, and an analyst agent to provide insights based on past application outcomes.
+
+---
+
 #### **Final Year Project: Prescriptive Analytics for Saline Aquifer Storage Detection (Private repo)**
 *Jan 2025 - Aug 2025*
 * **Introduction**: Developed a prescriptive analytics framework to identify optimal carbon capture and storage (CCS) locations in deep saline aquifers. The project integrated AI/ML to transform complex geological data into actionable insights, contributing to global climate change mitigation efforts.
